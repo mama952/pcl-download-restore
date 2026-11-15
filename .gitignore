@@ -1,0 +1,32 @@
+# Build output
+bin/
+obj/
+*_wpftmp.csproj
+
+# Rider / VS
+.vs/
+.idea/
+*.user
+*.suo
+
+# NuGet
+packages/
+*.nupkg
+project.assets.json
+project.nuget.cache
+
+# Local scratch
+*.restore-tmp
+*.orig-backup
+*.v1-backup
+*.v2-backup
+*.fixed
+*.skinfixed
+*.skinfixed2
+*.unpatched
+*.patched
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
